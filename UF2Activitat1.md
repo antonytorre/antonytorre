@@ -63,9 +63,12 @@ public class proves {
     }
 ```
   - **Diagrama:**
-  - ![image](https://github.com/antonytorre/antonytorre/blob/main/Flux3.drawio.png)
+  -   ![image](https://github.com/antonytorre/antonytorre/blob/main/Flux3.drawio.png)
   - **Resultat CC:**
+  -   CC = 4 - 4 + 2 = 2
   - **Resultat proves camins:**
+  -   C1 : hora = 16 -> llums = true -> return llums = true 
+  -   C2 : hora = 93817364817236473829283746485792911938474 -> return llums = false
 
 5. Investiga sobre les proves de caixa negra:
 
