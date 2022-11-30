@@ -19,7 +19,7 @@ Per dibuixar els diagrames de flux podeu fer servir [draw.io](https://draw.io) o
   - ![image](https://user-images.githubusercontent.com/110727546/204615125-363e5e6c-173b-4ec0-8c0b-cb97985ade06.png)
 
   - **Diagrama:**
-  -   
+  -   ![image](https://github.com/antonytorre/antonytorre/blob/main/Diagrama%20sense%20t%C3%ADtol.drawio.png)
   - **Resultat CC:**
   -   
 
