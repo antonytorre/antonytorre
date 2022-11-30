@@ -50,6 +50,12 @@ public class proves {
   -   ![image](https://github.com/antonytorre/antonytorre/blob/main/Flux2.drawio.png)
   - **Resultat CC:**
   -   CC = 13 - 10 +2 = 5
+  - **Resultat proves camins:**
+  -   C1 : temperatura = -453 -> roba = roba d'esquiar
+  -   C2 : temperatura = 3 -> roba = roba de muntanya
+  -   C3 : temperatura = 15 -> roba = roba d'hivern
+  -   C4 : temperatura = 24 - > roba = roba d'estiu
+  -   C5 : temperatura = 5504,85 -> roba = res
 
 4. Dibuixa el diagrama de flux representat per aquest codi, calcula la seva CC i crea una prova per a cada camí posible:
 
