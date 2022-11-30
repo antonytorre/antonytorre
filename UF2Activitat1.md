@@ -49,6 +49,7 @@ public class proves {
   - **Diagrama:**
   -   ![image](https://github.com/antonytorre/antonytorre/blob/main/Flux2.drawio.png)
   - **Resultat CC:**
+  -   CC = 13 - 10 +2 = 5
 
 4. Dibuixa el diagrama de flux representat per aquest codi, calcula la seva CC i crea una prova per a cada camí posible:
 
