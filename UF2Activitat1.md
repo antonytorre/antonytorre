@@ -8,15 +8,20 @@ Per dibuixar els diagrames de flux podeu fer servir [draw.io](https://draw.io) o
   - ![image](https://user-images.githubusercontent.com/110727546/204655229-8c3f28d7-3d8b-4746-a55d-331f89da39d2.png)
 
   - **Resultat 1:**
+  -   CC = 16 - 14 + 2 = 4
   - **Resultat 2:**
+  -   CC = 16 - 14 + 2 = 4
   - **Resultat 3:**
+  -   CC = 8 - 6 + 2 = 4
 
 
 2. Dibuixa el diagrama de flux representat per aquest codi i després calcula la seva CC:
   - ![image](https://user-images.githubusercontent.com/110727546/204615125-363e5e6c-173b-4ec0-8c0b-cb97985ade06.png)
 
   - **Diagrama:**
+  -   
   - **Resultat CC:**
+  -   
 
 3. Dibuixa el diagrama de flux representat per aquest codi i després calcula la seva CC:
 
