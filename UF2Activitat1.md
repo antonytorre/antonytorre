@@ -63,6 +63,7 @@ public class proves {
     }
 ```
   - **Diagrama:**
+  - ![image](https://github.com/antonytorre/antonytorre/blob/main/Flux3.drawio.png)
   - **Resultat CC:**
   - **Resultat proves camins:**
 
