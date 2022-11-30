@@ -73,5 +73,6 @@ public class proves {
 5. Investiga sobre les proves de caixa negra:
 
   - Què són?
+  -   Les proves de caixa negra es un métode de proba de software que examina la funcionalitat de una aplicació sense examinar les seves estructures             internes o el seu funcionamient.
   - Quina diferència principal tenen sobre les de caixa blanca?
-
+  -   La diferencia principal es que en les proves de caixa negra no es sap quin es el codi intern del programa, mentres que a la blanca si.
